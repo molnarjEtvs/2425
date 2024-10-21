@@ -1,0 +1,15 @@
+azonosító
+név
+pontszám
+#1
+Béla
+1200
+#2
+Luca
+5800
+#3
+Fazekas
+999
+#4
+Rubik
+888

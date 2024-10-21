@@ -1,0 +1,9 @@
+.myDiv{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    margin:10%;
+    border:10px solid #000000;
+    padding:10px;
+    box-sizing: border-box;
+}
