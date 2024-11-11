@@ -1,0 +1,11 @@
+.container{
+    background-color: cadetblue;
+    font-size: 0;
+}
+.box{
+    background-color: chartreuse;
+    width: 30%;
+    display: inline-block;
+    font-size: 14px;
+    vertical-align: top;
+}

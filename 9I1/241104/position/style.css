@@ -1,0 +1,13 @@
+.doboz{
+    background-color: cadetblue;
+    padding: 1%;
+    margin-bottom: 5px;
+    position: relative;
+    z-index: 20000;
+}
+.kozep{
+    position: sticky;
+    top:10px;
+    background-color: antiquewhite;
+    z-index: 10000;
+}

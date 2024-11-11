@@ -1,0 +1,21 @@
+.tarolo{
+    position: relative;
+}
+.box{
+    width: 200px;
+    height: 350px;
+    position: absolute;
+}
+.box1{
+    background-color: green;
+}
+.box2{
+    background-color: orange;
+    top:50px;
+    left:25px;
+}
+.box3{
+    background-color: red;
+    top:10px;
+    left:80px;
+}

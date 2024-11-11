@@ -1,0 +1,11 @@
+.arnyek{
+    background-color: blueviolet;
+    color: white;
+    width: 25%;
+    padding: 0.5%;
+    margin-left: 5%;
+    box-shadow: 5px 5px 10px 3px lightskyblue;
+}
+.szoveg{
+    text-shadow: 5px 5px lightskyblue; 
+}

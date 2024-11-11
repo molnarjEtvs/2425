@@ -1,0 +1,14 @@
+.szulo{
+    background-color: brown;
+}
+.szulo::after{
+    content: "";
+    display: table;
+    clear: both;
+}
+.gyermek{
+    background-color: blueviolet;
+    float:left;
+    width: 100px;
+    margin:10px;
+}

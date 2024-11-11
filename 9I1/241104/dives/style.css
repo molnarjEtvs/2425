@@ -1,0 +1,9 @@
+.csordul{
+    margin-left: 10px;
+    margin-top: 10px;
+    background-color: aquamarine;
+    color: blue;
+    width: 200px;
+    height: 100px;
+    overflow: auto;
+}

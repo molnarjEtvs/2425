@@ -1,0 +1,15 @@
+.container{
+    background-color: chocolate;
+}
+.container::after{
+    content: "";
+    display: table;
+    clear: both;
+}
+.doboz{
+    background-color: chartreuse;
+    width: 150px;
+    height: 150px;
+    float: left;
+    margin: 10px;
+}

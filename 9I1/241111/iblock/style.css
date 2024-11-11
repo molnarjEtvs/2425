@@ -1,0 +1,12 @@
+.container{
+    background-color: blueviolet;
+    font-size:0;
+}
+.box{
+    background-color: burlywood;
+    width: 30%;
+    display: inline-block;
+    font-size:16px;
+    margin: 0 1%;
+    vertical-align: top;
+}
