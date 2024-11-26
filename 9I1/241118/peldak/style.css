@@ -1,0 +1,10 @@
+body{
+    background-image: url('./img/alma2.png');
+    background-size:cover;
+    background-attachment: fixed; 
+}
+p{
+    color: white;
+    text-align: justify;
+    line-height: 2rem;
+}

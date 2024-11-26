@@ -1,0 +1,35 @@
+header{
+    background-color: #39546c;
+    font-size: 0;
+}
+.logo img{
+   height: 5rem;
+   vertical-align: middle; 
+}
+.logo, .menu{
+    display: inline-block;
+}
+.logo{
+    width: 40%;
+    padding: 1%;
+}
+.logo span{
+    font-size:2rem;
+    vertical-align: middle;
+    letter-spacing: 0.4rem;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.menu{
+    width: 60%;
+    text-align: right;
+    font-size:1.5rem;
+    vertical-align: middle;
+    padding-right: 3%;
+}
+.span1{
+    color: #fe9738;
+}
+.span2{
+    color: #fff;
+}

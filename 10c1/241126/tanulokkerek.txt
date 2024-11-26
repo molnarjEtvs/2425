@@ -1,0 +1,30 @@
+Név: Kiss Anna
+Jegy: 4
+------------------
+Név: Nagy Péter
+Jegy: 3
+------------------
+Név: Szabó László
+Jegy: 4
+------------------
+Név: Tóth Mária
+Jegy: 3
+------------------
+Név: Varga Zoltán
+Jegy: 4
+------------------
+Név: Molnár Eszter
+Jegy: 4
+------------------
+Név: Kovács Tamás
+Jegy: 3
+------------------
+Név: Farkas Lili
+Jegy: 4
+------------------
+Név: Lukács Áron
+Jegy: 4
+------------------
+Név: Oláh Júlia
+Jegy: 4
+------------------

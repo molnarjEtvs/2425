@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+body{
+    font-family:  "Inter", serif;
+}
+header{
+   background-color: #39546c; 
+   font-size: 0;
+}
+.logo img{
+    height: 5rem;
+    vertical-align: middle;
+}
+.logo, nav{
+    display: inline-block;
+}
+.logo{
+    width: 40%;
+    font-size:2rem;
+    padding:1%;
+}
+nav{
+    width: 60%;
+    font-size:1.5rem;
+    text-align: right;
+    vertical-align: middle;
+    padding-right: 3%;
+}
+.logo span{
+    vertical-align: middle;
+    text-transform: uppercase;
+    letter-spacing: 0.4rem;
+    font-weight: bold;
+}
+.span1{
+    color: #fe9738;
+}
+.span2{
+    color: #fff;
+}
+nav a{
+    color: #fe9738;
+    padding: 1% 2%;
+}
