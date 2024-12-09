@@ -85,3 +85,26 @@ header{
     letter-spacing: 0.3rem;
     padding: 1%;
 }
+
+.player{
+    width: 30%;
+    display: inline-block;
+    margin: 0 1.5%;
+    vertical-align: top;
+}
+.player img{
+    width: 100%;
+}
+.playerDeatils{
+    font-size:0;
+}
+.playerName{
+    width: 80%;
+    display: inline-block;
+    font-size: 1.5rem;
+}
+.playerNumber{
+    width: 20%;
+    display: inline-block;
+    font-size:5rem;
+}
