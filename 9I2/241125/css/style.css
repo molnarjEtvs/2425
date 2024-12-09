@@ -33,3 +33,55 @@ header{
 .span2{
     color: #fff;
 }
+.menu a:link,
+.menu a:visited,
+.menu a:hover,
+.menu a:active{
+    color: #fe9738;
+    padding: 1% 2%;
+    font-weight: 600;
+}
+.info{
+    background-image: url('../img/bg1.jpg');
+    height: 729px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.infoIn{
+    width: 70%;
+    margin: 0 auto;
+    color: #fff;
+    padding-top:10%;
+}
+#cim{
+    font-size:3rem;
+    font-weight: bold;
+}
+.infoIn p{
+    font-size: 1.2rem;
+    font-weight: 400;
+}
+.myBtn{
+    padding: 1.3% 3%;
+    background-color: #39546c;
+    display: inline-block;
+    margin-top: 3%;
+    border-radius: 5px;
+    font-weight: 400;
+    letter-spacing: 0.2rem;
+}
+.myBtn:hover{
+    background-color: #fe9738;
+}
+.players{
+    width: 90%;
+    margin:0 auto;
+    margin-top: 3%;
+}
+.players h2{
+    font-size:3rem;
+    text-align: center;
+    color: #39546c;
+    letter-spacing: 0.3rem;
+    padding: 1%;
+}
