@@ -26,7 +26,7 @@ if allapot==True:
     print("másolás sikeres")
 else:
     print("Másolás sikertelen")
-allapot = szg.programMasol(400)
+allapot = szgep1.programMasol(400)
 if allapot==True:
     print("másolás sikeres")
 else:
