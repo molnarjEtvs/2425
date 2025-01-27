@@ -66,3 +66,29 @@ for egyEpitmeny in epitmenyek:
     else:
         savC['db'] += 1
         savC['osszeg'] += ado('C',egyEpitmeny['m2'])
+
+print(f"A sávba {savA['db']} telek esik, az adó {savA['osszeg']} Ft.")
+print(f"B sávba {savB['db']} telek esik, az adó {savB['osszeg']} Ft.")
+print(f"C sávba {savC['db']} telek esik, az adó {savC['osszeg']} Ft.")
+
+utcak = {}
+
+for egyEpitmeny in epitmenyek:
+    if egyEpitmeny['utca'] not in utcak:
+        utcak[egyEpitmeny['utca']] = []
+
+    if egyEpitmeny['adosav'] not in utcak[egyEpitmeny['utca']]:
+        utcak[egyEpitmeny['utca']].append(egyEpitmeny['adosav'])
+
+print(f"6. Feladat. A több sávba sorolt utcák: ")
+for key in utcak.keys():
+    if len(utcak[key])>1:
+        print(key)
+
+#f = open("fizetendo.txt","w",encoding="utf-8")
+#f.close()
+
+
+with open("fizetendo.txt","w",encoding="utf-8") as f:
+    for egyEpitmeny in epitmenyek:
+        f.write(f"{egyEpitmeny['adoszam']} {ado(egyEpitmeny['adosav'],egyEpitmeny['m2'])}\n")

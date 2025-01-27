@@ -51,3 +51,36 @@ for egyEpitmeny in epitmenyek:
 if talalat == False:
     print("Nem szerepel az adatállományban.")
 
+adoA = {}
+adoB = {}
+adoC = {}
+adoA['db'] = 0
+adoA['osszeg'] = 0
+adoB['db'] = 0
+adoB['osszeg'] = 0
+adoC['db'] = 0
+adoC['osszeg'] = 0
+
+for egyEpitemeny in epitmenyek:
+    if egyEpitemeny['adosav'] == "A":
+        adoA['db'] += 1
+        adoA['osszeg'] += ado("A",egyEpitemeny['m2'])
+    elif egyEpitemeny['adosav'] == "B":
+        adoB['db'] += 1
+        adoB['osszeg'] += ado("B",egyEpitemeny['m2'])
+    else:
+        adoC['db'] += 1
+        adoC['osszeg'] += ado("C",egyEpitemeny['m2'])
+
+
+print(f"A sávba {adoA['db']} telek esik, az adó {adoA['osszeg']} Ft.")
+print(f"B sávba {adoB['db']} telek esik, az adó {adoB['osszeg']} Ft.")
+print(f"C sávba {adoC['db']} telek esik, az adó {adoC['osszeg']} Ft")
+
+utcak = {}
+
+#utcak['Gyurgyalag'] = ['A']
+
+for epitmeny in epitmenyek:
+    if epitmeny['utca'] not in utcak:
+        utcak[epitmeny['utca']] = []

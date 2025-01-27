@@ -1,0 +1,180 @@
+Név: Cirmi
+Kor: 3 éves
+Fajta: Perzsa
+Mozgasigény/Éhségállapot: 0/53
+Pillanatnyi állapot: éhesen járkál
+>>>>>>>>>>>>>>>>>>>>>>>>
+Név: Bogyó
+Kor: 1 éves
+Fajta: Maine Coon
+Mozgasigény/Éhségállapot: 0/60
+Pillanatnyi állapot: jól lakott
+>>>>>>>>>>>>>>>>>>>>>>>>
+Név: Süti
+Kor: 2 éves
+Fajta: British Shorthair
+Mozgasigény/Éhségállapot: -3/55
+Pillanatnyi állapot: éhesen járkál
+>>>>>>>>>>>>>>>>>>>>>>>>
+Név: Mogyi
+Kor: 4 éves
+Fajta: Siamese
+Mozgasigény/Éhségállapot: 1/62
+Pillanatnyi állapot: jól lakott
+>>>>>>>>>>>>>>>>>>>>>>>>
+Név: Pityu
+Kor: 2 éves
+Fajta: Scottish Fold
+Mozgasigény/Éhségállapot: -5/58
+Pillanatnyi állapot: éhesen járkál
+>>>>>>>>>>>>>>>>>>>>>>>>
+Név: Cirmi
+Kor: 2 éves
+Fajta: Abyssinian
+Mozgasigény/Éhségállapot: 1/58
+Pillanatnyi állapot: éhesen járkál
+>>>>>>>>>>>>>>>>>>>>>>>>
+Név: Bundás
+Kor: 5 éves
+Fajta: Ragdoll
+Mozgasigény/Éhségállapot: -1/57
+Pillanatnyi állapot: éhesen járkál
+>>>>>>>>>>>>>>>>>>>>>>>>
+Név: Mancs
+Kor: 3 éves
+Fajta: Bengal
+Mozgasigény/Éhségállapot: 4/60
+Pillanatnyi állapot: jól lakott
+>>>>>>>>>>>>>>>>>>>>>>>>
+Név: Cicó
+Kor: 2 éves
+Fajta: Sphynx
+Mozgasigény/Éhségállapot: -2/64
+Pillanatnyi állapot: jól lakott
+>>>>>>>>>>>>>>>>>>>>>>>>
+Név: Morzsi
+Kor: 4 éves
+Fajta: Birman
+Mozgasigény/Éhségállapot: -1/59
+Pillanatnyi állapot: éhesen járkál
+>>>>>>>>>>>>>>>>>>>>>>>>
+Név: Pompom
+Kor: 1 éves
+Fajta: Burmese
+Mozgasigény/Éhségállapot: -2/64
+Pillanatnyi állapot: jól lakott
+>>>>>>>>>>>>>>>>>>>>>>>>
+Név: Dundi
+Kor: 3 éves
+Fajta: Siberian
+Mozgasigény/Éhségállapot: -2/54
+Pillanatnyi állapot: éhesen járkál
+>>>>>>>>>>>>>>>>>>>>>>>>
+Név: Cirmi
+Kor: 2 éves
+Fajta: Oriental
+Mozgasigény/Éhségállapot: 1/57
+Pillanatnyi állapot: éhesen járkál
+>>>>>>>>>>>>>>>>>>>>>>>>
+Név: Cirmi
+Kor: 3 éves
+Fajta: Exotic Shorthair
+Mozgasigény/Éhségállapot: 2/61
+Pillanatnyi állapot: jól lakott
+>>>>>>>>>>>>>>>>>>>>>>>>
+Név: Macska
+Kor: 1 éves
+Fajta: British Longhair
+Mozgasigény/Éhségállapot: -2/62
+Pillanatnyi állapot: jól lakott
+>>>>>>>>>>>>>>>>>>>>>>>>
+Név: Szőrös
+Kor: 4 éves
+Fajta: Norwegian Forest Cat
+Mozgasigény/Éhségállapot: -1/57
+Pillanatnyi állapot: éhesen járkál
+>>>>>>>>>>>>>>>>>>>>>>>>
+Név: Cirmi
+Kor: 2 éves
+Fajta: Turkish Angora
+Mozgasigény/Éhségállapot: 0/52
+Pillanatnyi állapot: éhesen járkál
+>>>>>>>>>>>>>>>>>>>>>>>>
+Név: Cirmi
+Kor: 3 éves
+Fajta: Bombay
+Mozgasigény/Éhségállapot: 3/60
+Pillanatnyi állapot: jól lakott
+>>>>>>>>>>>>>>>>>>>>>>>>
+Név: Macska
+Kor: 3 éves
+Fajta: Himalayan
+Mozgasigény/Éhségállapot: -3/58
+Pillanatnyi állapot: éhesen járkál
+>>>>>>>>>>>>>>>>>>>>>>>>
+Név: Dundi
+Kor: 2 éves
+Fajta: Selkirk Rex
+Mozgasigény/Éhségállapot: 0/64
+Pillanatnyi állapot: jól lakott
+>>>>>>>>>>>>>>>>>>>>>>>>
+Név: Bogyó
+Kor: 5 éves
+Fajta: Devon Rex
+Mozgasigény/Éhségállapot: -1/56
+Pillanatnyi állapot: éhesen járkál
+>>>>>>>>>>>>>>>>>>>>>>>>
+Név: Macska
+Kor: 1 éves
+Fajta: Somali
+Mozgasigény/Éhségállapot: 1/61
+Pillanatnyi állapot: jól lakott
+>>>>>>>>>>>>>>>>>>>>>>>>
+Név: Pityu
+Kor: 2 éves
+Fajta: Cornish Rex
+Mozgasigény/Éhségállapot: 0/56
+Pillanatnyi állapot: éhesen járkál
+>>>>>>>>>>>>>>>>>>>>>>>>
+Név: Cirmi
+Kor: 4 éves
+Fajta: Chartreux
+Mozgasigény/Éhségállapot: 1/54
+Pillanatnyi állapot: éhesen járkál
+>>>>>>>>>>>>>>>>>>>>>>>>
+Név: Bogyó
+Kor: 3 éves
+Fajta: British Semi-longhair
+Mozgasigény/Éhségállapot: -4/57
+Pillanatnyi állapot: éhesen járkál
+>>>>>>>>>>>>>>>>>>>>>>>>
+Név: Cirmi
+Kor: 2 éves
+Fajta: Singapura
+Mozgasigény/Éhségállapot: 2/55
+Pillanatnyi állapot: éhesen járkál
+>>>>>>>>>>>>>>>>>>>>>>>>
+Név: Cirmi
+Kor: 1 éves
+Fajta: Korat
+Mozgasigény/Éhségállapot: 1/52
+Pillanatnyi állapot: éhesen járkál
+>>>>>>>>>>>>>>>>>>>>>>>>
+Név: Cirmi
+Kor: 4 éves
+Fajta: Toyger
+Mozgasigény/Éhségállapot: 0/55
+Pillanatnyi állapot: éhesen járkál
+>>>>>>>>>>>>>>>>>>>>>>>>
+Név: Macska
+Kor: 3 éves
+Fajta: Savannah
+Mozgasigény/Éhségállapot: 2/56
+Pillanatnyi állapot: éhesen járkál
+>>>>>>>>>>>>>>>>>>>>>>>>
+Név: Süti
+Kor: 2 éves
+Fajta: Manx
+Mozgasigény/Éhségállapot: 2/57
+Pillanatnyi állapot: éhesen járkál
+>>>>>>>>>>>>>>>>>>>>>>>>
