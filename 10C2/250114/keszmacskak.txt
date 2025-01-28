@@ -1,0 +1,180 @@
+Név: Cirmi
+Kor: 3
+Fajta: Perzsa
+Mozgasigény/Éhségállapot: -2/53
+Pillanatnyi állapot: éhesen járkál
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Név: Bogyó
+Kor: 1
+Fajta: Maine Coon
+Mozgasigény/Éhségállapot: -7/56
+Pillanatnyi állapot: éhesen járkál
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Név: Süti
+Kor: 2
+Fajta: British Shorthair
+Mozgasigény/Éhségállapot: -2/53
+Pillanatnyi állapot: éhesen járkál
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Név: Mogyi
+Kor: 4
+Fajta: Siamese
+Mozgasigény/Éhségállapot: -3/53
+Pillanatnyi állapot: éhesen járkál
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Név: Pityu
+Kor: 2
+Fajta: Scottish Fold
+Mozgasigény/Éhségállapot: -2/53
+Pillanatnyi állapot: éhesen járkál
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Név: Cirmi
+Kor: 2
+Fajta: Abyssinian
+Mozgasigény/Éhségállapot: -9/57
+Pillanatnyi állapot: éhesen járkál
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Név: Bundás
+Kor: 5
+Fajta: Ragdoll
+Mozgasigény/Éhségállapot: -9/61
+Pillanatnyi állapot: jól lakott
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Név: Mancs
+Kor: 3
+Fajta: Bengal
+Mozgasigény/Éhségállapot: -3/57
+Pillanatnyi állapot: éhesen járkál
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Név: Cicó
+Kor: 2
+Fajta: Sphynx
+Mozgasigény/Éhségállapot: -6/58
+Pillanatnyi állapot: éhesen járkál
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Név: Morzsi
+Kor: 4
+Fajta: Birman
+Mozgasigény/Éhségállapot: -2/56
+Pillanatnyi állapot: éhesen járkál
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Név: Pompom
+Kor: 1
+Fajta: Burmese
+Mozgasigény/Éhségállapot: -7/59
+Pillanatnyi állapot: éhesen járkál
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Név: Dundi
+Kor: 3
+Fajta: Siberian
+Mozgasigény/Éhségállapot: -3/58
+Pillanatnyi állapot: éhesen járkál
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Név: Cirmi
+Kor: 2
+Fajta: Oriental
+Mozgasigény/Éhségállapot: -2/54
+Pillanatnyi állapot: éhesen járkál
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Név: Cirmi
+Kor: 3
+Fajta: Exotic Shorthair
+Mozgasigény/Éhségállapot: -6/59
+Pillanatnyi állapot: éhesen járkál
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Név: Macska
+Kor: 1
+Fajta: British Longhair
+Mozgasigény/Éhségállapot: -2/53
+Pillanatnyi állapot: éhesen járkál
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Név: Szőrös
+Kor: 4
+Fajta: Norwegian Forest Cat
+Mozgasigény/Éhségállapot: -1/56
+Pillanatnyi állapot: éhesen járkál
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Név: Cirmi
+Kor: 2
+Fajta: Turkish Angora
+Mozgasigény/Éhségállapot: -5/55
+Pillanatnyi állapot: éhesen járkál
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Név: Cirmi
+Kor: 3
+Fajta: Bombay
+Mozgasigény/Éhségállapot: -3/57
+Pillanatnyi állapot: éhesen járkál
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Név: Macska
+Kor: 3
+Fajta: Himalayan
+Mozgasigény/Éhségállapot: -7/56
+Pillanatnyi állapot: éhesen járkál
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Név: Dundi
+Kor: 2
+Fajta: Selkirk Rex
+Mozgasigény/Éhségállapot: -2/58
+Pillanatnyi állapot: éhesen járkál
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Név: Bogyó
+Kor: 5
+Fajta: Devon Rex
+Mozgasigény/Éhségállapot: -1/56
+Pillanatnyi állapot: éhesen járkál
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Név: Macska
+Kor: 1
+Fajta: Somali
+Mozgasigény/Éhségállapot: -3/59
+Pillanatnyi állapot: éhesen járkál
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Név: Pityu
+Kor: 2
+Fajta: Cornish Rex
+Mozgasigény/Éhségállapot: -5/53
+Pillanatnyi állapot: éhesen járkál
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Név: Cirmi
+Kor: 4
+Fajta: Chartreux
+Mozgasigény/Éhségállapot: 0/55
+Pillanatnyi állapot: éhesen járkál
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Név: Bogyó
+Kor: 3
+Fajta: British Semi-longhair
+Mozgasigény/Éhségállapot: -6/59
+Pillanatnyi állapot: éhesen járkál
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Név: Cirmi
+Kor: 2
+Fajta: Singapura
+Mozgasigény/Éhségállapot: -6/59
+Pillanatnyi állapot: éhesen járkál
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Név: Cirmi
+Kor: 1
+Fajta: Korat
+Mozgasigény/Éhségállapot: -5/56
+Pillanatnyi állapot: éhesen járkál
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Név: Cirmi
+Kor: 4
+Fajta: Toyger
+Mozgasigény/Éhségállapot: -1/53
+Pillanatnyi állapot: éhesen járkál
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Név: Macska
+Kor: 3
+Fajta: Savannah
+Mozgasigény/Éhségállapot: -5/57
+Pillanatnyi állapot: éhesen járkál
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Név: Süti
+Kor: 2
+Fajta: Manx
+Mozgasigény/Éhségállapot: -7/61
+Pillanatnyi állapot: jól lakott
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>

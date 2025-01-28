@@ -1,0 +1,180 @@
+Név: Cirmi
+Kor: 3
+Fajta: Perzsa
+Mozgasigény/Éhségállapot: 2/60
+Pillanatnyi állapot: Jól lakott
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Név: Bogyó
+Kor: 1
+Fajta: Maine Coon
+Mozgasigény/Éhségállapot: 2/61
+Pillanatnyi állapot: Jól lakott
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Név: Süti
+Kor: 2
+Fajta: British Shorthair
+Mozgasigény/Éhségállapot: -3/55
+Pillanatnyi állapot: éhesen járkál
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Név: Mogyi
+Kor: 4
+Fajta: Siamese
+Mozgasigény/Éhségállapot: 2/60
+Pillanatnyi állapot: Jól lakott
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Név: Pityu
+Kor: 2
+Fajta: Scottish Fold
+Mozgasigény/Éhségállapot: 2/58
+Pillanatnyi állapot: éhesen járkál
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Név: Cirmi
+Kor: 2
+Fajta: Abyssinian
+Mozgasigény/Éhségállapot: -3/61
+Pillanatnyi állapot: Jól lakott
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Név: Bundás
+Kor: 5
+Fajta: Ragdoll
+Mozgasigény/Éhségállapot: 4/59
+Pillanatnyi állapot: éhesen járkál
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Név: Mancs
+Kor: 3
+Fajta: Bengal
+Mozgasigény/Éhségállapot: 1/61
+Pillanatnyi állapot: Jól lakott
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Név: Cicó
+Kor: 2
+Fajta: Sphynx
+Mozgasigény/Éhségállapot: 3/55
+Pillanatnyi állapot: éhesen járkál
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Név: Morzsi
+Kor: 4
+Fajta: Birman
+Mozgasigény/Éhségállapot: 2/61
+Pillanatnyi állapot: Jól lakott
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Név: Pompom
+Kor: 1
+Fajta: Burmese
+Mozgasigény/Éhségállapot: -1/57
+Pillanatnyi állapot: éhesen járkál
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Név: Dundi
+Kor: 3
+Fajta: Siberian
+Mozgasigény/Éhségállapot: 0/56
+Pillanatnyi állapot: éhesen járkál
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Név: Cirmi
+Kor: 2
+Fajta: Oriental
+Mozgasigény/Éhségállapot: 3/56
+Pillanatnyi állapot: éhesen járkál
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Név: Cirmi
+Kor: 3
+Fajta: Exotic Shorthair
+Mozgasigény/Éhségállapot: 1/57
+Pillanatnyi állapot: éhesen járkál
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Név: Macska
+Kor: 1
+Fajta: British Longhair
+Mozgasigény/Éhségállapot: -3/59
+Pillanatnyi állapot: éhesen járkál
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Név: Szőrös
+Kor: 4
+Fajta: Norwegian Forest Cat
+Mozgasigény/Éhségállapot: 2/55
+Pillanatnyi állapot: éhesen járkál
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Név: Cirmi
+Kor: 2
+Fajta: Turkish Angora
+Mozgasigény/Éhségállapot: 1/55
+Pillanatnyi állapot: éhesen járkál
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Név: Cirmi
+Kor: 3
+Fajta: Bombay
+Mozgasigény/Éhségállapot: 0/59
+Pillanatnyi állapot: éhesen járkál
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Név: Macska
+Kor: 3
+Fajta: Himalayan
+Mozgasigény/Éhségállapot: -1/55
+Pillanatnyi állapot: éhesen járkál
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Név: Dundi
+Kor: 2
+Fajta: Selkirk Rex
+Mozgasigény/Éhségállapot: 1/54
+Pillanatnyi állapot: éhesen járkál
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Név: Bogyó
+Kor: 5
+Fajta: Devon Rex
+Mozgasigény/Éhségállapot: -1/60
+Pillanatnyi állapot: Jól lakott
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Név: Macska
+Kor: 1
+Fajta: Somali
+Mozgasigény/Éhségállapot: -2/58
+Pillanatnyi állapot: éhesen járkál
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Név: Pityu
+Kor: 2
+Fajta: Cornish Rex
+Mozgasigény/Éhségállapot: 3/57
+Pillanatnyi állapot: éhesen járkál
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Név: Cirmi
+Kor: 4
+Fajta: Chartreux
+Mozgasigény/Éhségállapot: -2/64
+Pillanatnyi állapot: Jól lakott
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Név: Bogyó
+Kor: 3
+Fajta: British Semi-longhair
+Mozgasigény/Éhségállapot: -2/60
+Pillanatnyi állapot: Jól lakott
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Név: Cirmi
+Kor: 2
+Fajta: Singapura
+Mozgasigény/Éhségállapot: 3/58
+Pillanatnyi állapot: éhesen járkál
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Név: Cirmi
+Kor: 1
+Fajta: Korat
+Mozgasigény/Éhségállapot: -2/60
+Pillanatnyi állapot: Jól lakott
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Név: Cirmi
+Kor: 4
+Fajta: Toyger
+Mozgasigény/Éhségállapot: 0/55
+Pillanatnyi állapot: éhesen járkál
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Név: Macska
+Kor: 3
+Fajta: Savannah
+Mozgasigény/Éhségállapot: -3/58
+Pillanatnyi állapot: éhesen járkál
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Név: Süti
+Kor: 2
+Fajta: Manx
+Mozgasigény/Éhségállapot: 4/58
+Pillanatnyi állapot: éhesen járkál
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
