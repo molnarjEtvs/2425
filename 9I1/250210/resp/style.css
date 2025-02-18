@@ -1,0 +1,25 @@
+.szulo{
+    font-size: 0;
+    width: 98%;
+    margin: 0 auto;
+}
+.sarga{
+    background-color: yellow;
+    font-size: 1rem;
+    border:2px solid black;
+    box-sizing: border-box;
+    display: inline-block;
+    height: 60px;
+    margin-top: 1%;
+    width: 100%;
+}
+@media only screen and (min-width:600px){
+   .sarga-50{
+        width: 50%;
+   } 
+}
+@media only screen and (min-width:992px){
+    .sarga{
+        width:33.3%;
+    }
+}

@@ -1,0 +1,725 @@
+Azonosító: #1
+Hős neve: Aatrox
+Nehézségi szint: Warrior
+Képesség: bájolás
+########################################
+Azonosító: #2
+Hős neve: Ahri
+Nehézségi szint: Mage
+Képesség: bájolás
+########################################
+Azonosító: #3
+Hős neve: Akali
+Nehézségi szint: Assasin
+Képesség: átokszórás
+########################################
+Azonosító: #4
+Hős neve: Alistar
+Nehézségi szint: Tank-Support
+Képesség: halál
+########################################
+Azonosító: #5
+Hős neve: Amumu
+Nehézségi szint: Tank
+Képesség: bájolás
+########################################
+Azonosító: #6
+Hős neve: Anivia
+Nehézségi szint: Mage
+Képesség: bájolás
+########################################
+Azonosító: #7
+Hős neve: Annie
+Nehézségi szint: Mage
+Képesség: halál
+########################################
+Azonosító: #8
+Hős neve: Ashe
+Nehézségi szint: Marksman
+Képesség: bájolás
+########################################
+Azonosító: #9
+Hős neve: Aurelion Sol
+Nehézségi szint: Mage
+Képesség: bájolás
+########################################
+Azonosító: #10
+Hős neve: Azir
+Nehézségi szint: Mage
+Képesség: halál
+########################################
+Azonosító: #11
+Hős neve: Bard
+Nehézségi szint: Support
+Képesség: bájolás
+########################################
+Azonosító: #12
+Hős neve: Blitzcrank
+Nehézségi szint: Support
+Képesség: átokszórás
+########################################
+Azonosító: #13
+Hős neve: Brand
+Nehézségi szint: Mage
+Képesség: bájolás
+########################################
+Azonosító: #14
+Hős neve: Braum
+Nehézségi szint: Tank-Support
+Képesség: bájolás
+########################################
+Azonosító: #15
+Hős neve: Caitlyn
+Nehézségi szint: Marksman
+Képesség: halál
+########################################
+Azonosító: #16
+Hős neve: Camille
+Nehézségi szint: Warrior
+Képesség: átokszórás
+########################################
+Azonosító: #17
+Hős neve: Cassiopeia
+Nehézségi szint: Mage
+Képesség: bájolás
+########################################
+Azonosító: #18
+Hős neve: Cho Gath
+Nehézségi szint: Mage-Warrior
+Képesség: bájolás
+########################################
+Azonosító: #19
+Hős neve: Corki
+Nehézségi szint: Marksman
+Képesség: végítélet
+########################################
+Azonosító: #20
+Hős neve: Darius
+Nehézségi szint: Tank-Warrior
+Képesség: átokszórás
+########################################
+Azonosító: #21
+Hős neve: Diana
+Nehézségi szint: Mage-Warrior
+Képesség: átokszórás
+########################################
+Azonosító: #22
+Hős neve: Dr.Mundo
+Nehézségi szint: Tank-Warrior
+Képesség: bájolás
+########################################
+Azonosító: #23
+Hős neve: Draven
+Nehézségi szint: Marksman
+Képesség: végítélet
+########################################
+Azonosító: #24
+Hős neve: Ekko
+Nehézségi szint: Mage-Warrior
+Képesség: bájolás
+########################################
+Azonosító: #25
+Hős neve: Elise
+Nehézségi szint: Mage-Assasin
+Képesség: bájolás
+########################################
+Azonosító: #26
+Hős neve: Evelynn
+Nehézségi szint: Assasin
+Képesség: bájolás
+########################################
+Azonosító: #27
+Hős neve: Ezreal
+Nehézségi szint: Mage-Marksman
+Képesség: átokszórás
+########################################
+Azonosító: #28
+Hős neve: Fiddlesticks
+Nehézségi szint: Mage
+Képesség: átokszórás
+########################################
+Azonosító: #29
+Hős neve: Fiora
+Nehézségi szint: Warrior
+Képesség: halál
+########################################
+Azonosító: #30
+Hős neve: Fizz
+Nehézségi szint: Mage-Assasin
+Képesség: átokszórás
+########################################
+Azonosító: #31
+Hős neve: Galio
+Nehézségi szint: Mage
+Képesség: végítélet
+########################################
+Azonosító: #32
+Hős neve: Gangplank
+Nehézségi szint: Warrior
+Képesség: végítélet
+########################################
+Azonosító: #33
+Hős neve: Garen
+Nehézségi szint: Tank-Warrior
+Képesség: halál
+########################################
+Azonosító: #34
+Hős neve: Gnar
+Nehézségi szint: Warrior
+Képesség: halál
+########################################
+Azonosító: #35
+Hős neve: Gragas
+Nehézségi szint: Mage-Warrior
+Képesség: végítélet
+########################################
+Azonosító: #36
+Hős neve: Graves
+Nehézségi szint: Marksman
+Képesség: halál
+########################################
+Azonosító: #37
+Hős neve: Hecarim
+Nehézségi szint: Warrior
+Képesség: halál
+########################################
+Azonosító: #38
+Hős neve: Heimerdinger
+Nehézségi szint: Mage
+Képesség: bájolás
+########################################
+Azonosító: #39
+Hős neve: Illaoi
+Nehézségi szint: Tank-Warrior
+Képesség: halál
+########################################
+Azonosító: #40
+Hős neve: Irelia
+Nehézségi szint: Warrior
+Képesség: átokszórás
+########################################
+Azonosító: #41
+Hős neve: Ivern
+Nehézségi szint: Mage
+Képesség: végítélet
+########################################
+Azonosító: #42
+Hős neve: Janna
+Nehézségi szint: Support
+Képesség: átokszórás
+########################################
+Azonosító: #43
+Hős neve: Jarvan IV
+Nehézségi szint: Tank-Warrior
+Képesség: halál
+########################################
+Azonosító: #44
+Hős neve: Jax
+Nehézségi szint: Warrior
+Képesség: átokszórás
+########################################
+Azonosító: #45
+Hős neve: Jayce
+Nehézségi szint: Warrior
+Képesség: bájolás
+########################################
+Azonosító: #46
+Hős neve: Jhin
+Nehézségi szint: Marksman
+Képesség: halál
+########################################
+Azonosító: #47
+Hős neve: Jinx
+Nehézségi szint: Marksman
+Képesség: végítélet
+########################################
+Azonosító: #48
+Hős neve: Kai Sa
+Nehézségi szint: Marksman
+Képesség: végítélet
+########################################
+Azonosító: #49
+Hős neve: Kalista
+Nehézségi szint: Marksman
+Képesség: végítélet
+########################################
+Azonosító: #50
+Hős neve: Karma
+Nehézségi szint: Mage-Support
+Képesség: halál
+########################################
+Azonosító: #51
+Hős neve: Karthus
+Nehézségi szint: Mage
+Képesség: átokszórás
+########################################
+Azonosító: #52
+Hős neve: Kassadin
+Nehézségi szint: Mage-Assasin
+Képesség: átokszórás
+########################################
+Azonosító: #53
+Hős neve: Katarina
+Nehézségi szint: Mage-Assasin
+Képesség: átokszórás
+########################################
+Azonosító: #54
+Hős neve: Kayle
+Nehézségi szint: Mage
+Képesség: bájolás
+########################################
+Azonosító: #55
+Hős neve: Kayn
+Nehézségi szint: Assasin
+Képesség: halál
+########################################
+Azonosító: #56
+Hős neve: Kennen
+Nehézségi szint: Mage
+Képesség: halál
+########################################
+Azonosító: #57
+Hős neve: Kha Zix
+Nehézségi szint: Assasin
+Képesség: halál
+########################################
+Azonosító: #58
+Hős neve: Kindred
+Nehézségi szint: Assasin
+Képesség: bájolás
+########################################
+Azonosító: #59
+Hős neve: Kled
+Nehézségi szint: Warrior
+Képesség: átokszórás
+########################################
+Azonosító: #60
+Hős neve: Kog Maw
+Nehézségi szint: Marksman
+Képesség: átokszórás
+########################################
+Azonosító: #61
+Hős neve: Leblanc
+Nehézségi szint: Mage-Assasin
+Képesség: bájolás
+########################################
+Azonosító: #62
+Hős neve: Lee Sin
+Nehézségi szint: Warrior-Assasin
+Képesség: halál
+########################################
+Azonosító: #63
+Hős neve: Leona
+Nehézségi szint: Tank
+Képesség: bájolás
+########################################
+Azonosító: #64
+Hős neve: Lissandra
+Nehézségi szint: Mage
+Képesség: halál
+########################################
+Azonosító: #65
+Hős neve: Lucian
+Nehézségi szint: Marksman
+Képesség: átokszórás
+########################################
+Azonosító: #66
+Hős neve: Lulu
+Nehézségi szint: Support
+Képesség: végítélet
+########################################
+Azonosító: #67
+Hős neve: Lux
+Nehézségi szint: Mage
+Képesség: átokszórás
+########################################
+Azonosító: #68
+Hős neve: Malphite
+Nehézségi szint: Tank
+Képesség: végítélet
+########################################
+Azonosító: #69
+Hős neve: Malzahar
+Nehézségi szint: Mage
+Képesség: végítélet
+########################################
+Azonosító: #70
+Hős neve: Maokai
+Nehézségi szint: Tank
+Képesség: végítélet
+########################################
+Azonosító: #71
+Hős neve: Master Yi
+Nehézségi szint: Assasin
+Képesség: végítélet
+########################################
+Azonosító: #72
+Hős neve: Miss Fortune
+Nehézségi szint: Marksman
+Képesség: végítélet
+########################################
+Azonosító: #73
+Hős neve: Mordekaiser
+Nehézségi szint: Warrior
+Képesség: bájolás
+########################################
+Azonosító: #74
+Hős neve: Morgana
+Nehézségi szint: Mage-Support
+Képesség: átokszórás
+########################################
+Azonosító: #75
+Hős neve: Nami
+Nehézségi szint: Support
+Képesség: bájolás
+########################################
+Azonosító: #76
+Hős neve: Nasus
+Nehézségi szint: Warrior
+Képesség: bájolás
+########################################
+Azonosító: #77
+Hős neve: Nautilus
+Nehézségi szint: Tank-Support
+Képesség: halál
+########################################
+Azonosító: #78
+Hős neve: Neeko
+Nehézségi szint: Mage
+Képesség: halál
+########################################
+Azonosító: #79
+Hős neve: Nidalee
+Nehézségi szint: Assasin
+Képesség: bájolás
+########################################
+Azonosító: #80
+Hős neve: Nocturne
+Nehézségi szint: Assasin
+Képesség: bájolás
+########################################
+Azonosító: #81
+Hős neve: Nunu
+Nehézségi szint: Tank
+Képesség: végítélet
+########################################
+Azonosító: #82
+Hős neve: Olaf
+Nehézségi szint: Warrior
+Képesség: végítélet
+########################################
+Azonosító: #83
+Hős neve: Orianna
+Nehézségi szint: Mage
+Képesség: végítélet
+########################################
+Azonosító: #84
+Hős neve: Ornn
+Nehézségi szint: Warrior
+Képesség: bájolás
+########################################
+Azonosító: #85
+Hős neve: Pantheon
+Nehézségi szint: Warrior-Assasin
+Képesség: halál
+########################################
+Azonosító: #86
+Hős neve: Poppy
+Nehézségi szint: Tank-Warrior
+Képesség: bájolás
+########################################
+Azonosító: #87
+Hős neve: Pyke
+Nehézségi szint: Support
+Képesség: bájolás
+########################################
+Azonosító: #88
+Hős neve: Qiyana
+Nehézségi szint: Warrior
+Képesség: átokszórás
+########################################
+Azonosító: #89
+Hős neve: Quinn
+Nehézségi szint: Marksman
+Képesség: átokszórás
+########################################
+Azonosító: #90
+Hős neve: Rakan
+Nehézségi szint: Support
+Képesség: bájolás
+########################################
+Azonosító: #91
+Hős neve: Rammus
+Nehézségi szint: Tank
+Képesség: halál
+########################################
+Azonosító: #92
+Hős neve: Rek Sai
+Nehézségi szint: Warrior
+Képesség: átokszórás
+########################################
+Azonosító: #93
+Hős neve: Renekton
+Nehézségi szint: Warrior
+Képesség: végítélet
+########################################
+Azonosító: #94
+Hős neve: Rengar
+Nehézségi szint: Assasin
+Képesség: átokszórás
+########################################
+Azonosító: #95
+Hős neve: Riven
+Nehézségi szint: Warrior
+Képesség: végítélet
+########################################
+Azonosító: #96
+Hős neve: Rumble
+Nehézségi szint: Mage-Warrior
+Képesség: végítélet
+########################################
+Azonosító: #97
+Hős neve: Ryze
+Nehézségi szint: Mage
+Képesség: halál
+########################################
+Azonosító: #98
+Hős neve: Sejuani
+Nehézségi szint: Tank
+Képesség: halál
+########################################
+Azonosító: #99
+Hős neve: Shaco
+Nehézségi szint: Assasin
+Képesség: végítélet
+########################################
+Azonosító: #100
+Hős neve: Shen
+Nehézségi szint: Tank
+Képesség: végítélet
+########################################
+Azonosító: #101
+Hős neve: Shyvana
+Nehézségi szint: Warrior
+Képesség: végítélet
+########################################
+Azonosító: #102
+Hős neve: Singed
+Nehézségi szint: Tank-Warrior
+Képesség: átokszórás
+########################################
+Azonosító: #103
+Hős neve: Sion
+Nehézségi szint: Warrior
+Képesség: halál
+########################################
+Azonosító: #104
+Hős neve: Sivir
+Nehézségi szint: Marksman
+Képesség: halál
+########################################
+Azonosító: #105
+Hős neve: Skarner
+Nehézségi szint: Warrior
+Képesség: halál
+########################################
+Azonosító: #106
+Hős neve: Sona
+Nehézségi szint: Support
+Képesség: bájolás
+########################################
+Azonosító: #107
+Hős neve: Soraka
+Nehézségi szint: Support
+Képesség: halál
+########################################
+Azonosító: #108
+Hős neve: Swain
+Nehézségi szint: Mage
+Képesség: átokszórás
+########################################
+Azonosító: #109
+Hős neve: Sylas
+Nehézségi szint: Mage-Warrior
+Képesség: végítélet
+########################################
+Azonosító: #110
+Hős neve: Syndra
+Nehézségi szint: Mage
+Képesség: bájolás
+########################################
+Azonosító: #111
+Hős neve: Tahm Kench
+Nehézségi szint: Tank-Support
+Képesség: átokszórás
+########################################
+Azonosító: #112
+Hős neve: Taliyah
+Nehézségi szint: Mage
+Képesség: halál
+########################################
+Azonosító: #113
+Hős neve: Talon
+Nehézségi szint: Assasin
+Képesség: halál
+########################################
+Azonosító: #114
+Hős neve: Taric
+Nehézségi szint: Tank-Support
+Képesség: átokszórás
+########################################
+Azonosító: #115
+Hős neve: Teemo
+Nehézségi szint: Assasin
+Képesség: halál
+########################################
+Azonosító: #116
+Hős neve: Thresh
+Nehézségi szint: Tank-Support
+Képesség: halál
+########################################
+Azonosító: #117
+Hős neve: Tristana
+Nehézségi szint: Marksman
+Képesség: átokszórás
+########################################
+Azonosító: #118
+Hős neve: Trundle
+Nehézségi szint: Warrior
+Képesség: végítélet
+########################################
+Azonosító: #119
+Hős neve: Tryndamere
+Nehézségi szint: Warrior
+Képesség: bájolás
+########################################
+Azonosító: #120
+Hős neve: Twisted Fate
+Nehézségi szint: Mage-Assasin
+Képesség: halál
+########################################
+Azonosító: #121
+Hős neve: Twitch
+Nehézségi szint: Marksman
+Képesség: bájolás
+########################################
+Azonosító: #122
+Hős neve: Udyr
+Nehézségi szint: Warrior
+Képesség: átokszórás
+########################################
+Azonosító: #123
+Hős neve: Urgot
+Nehézségi szint: Warrior
+Képesség: végítélet
+########################################
+Azonosító: #124
+Hős neve: Varus
+Nehézségi szint: Marksman
+Képesség: végítélet
+########################################
+Azonosító: #125
+Hős neve: Vayne
+Nehézségi szint: Marksman
+Képesség: bájolás
+########################################
+Azonosító: #126
+Hős neve: Veigar
+Nehézségi szint: Mage
+Képesség: átokszórás
+########################################
+Azonosító: #127
+Hős neve: Vel Koz
+Nehézségi szint: Mage
+Képesség: végítélet
+########################################
+Azonosító: #128
+Hős neve: Vi
+Nehézségi szint: Warrior
+Képesség: halál
+########################################
+Azonosító: #129
+Hős neve: Viktor
+Nehézségi szint: Mage
+Képesség: halál
+########################################
+Azonosító: #130
+Hős neve: Vladimir
+Nehézségi szint: Mage-Warrior
+Képesség: bájolás
+########################################
+Azonosító: #131
+Hős neve: Volibear
+Nehézségi szint: Tank-Warrior
+Képesség: átokszórás
+########################################
+Azonosító: #132
+Hős neve: Warwick
+Nehézségi szint: Warrior
+Képesség: bájolás
+########################################
+Azonosító: #133
+Hős neve: Wukong
+Nehézségi szint: Warrior
+Képesség: átokszórás
+########################################
+Azonosító: #134
+Hős neve: Xayah
+Nehézségi szint: Marksman
+Képesség: halál
+########################################
+Azonosító: #135
+Hős neve: Xerath
+Nehézségi szint: Mage
+Képesség: átokszórás
+########################################
+Azonosító: #136
+Hős neve: Xin Zhao
+Nehézségi szint: Warrior
+Képesség: átokszórás
+########################################
+Azonosító: #137
+Hős neve: Yasuo
+Nehézségi szint: Warrior
+Képesség: halál
+########################################
+Azonosító: #138
+Hős neve: Yorick
+Nehézségi szint: Warrior
+Képesség: bájolás
+########################################
+Azonosító: #139
+Hős neve: Yuumi
+Nehézségi szint: Support
+Képesség: bájolás
+########################################
+Azonosító: #140
+Hős neve: Zac
+Nehézségi szint: Tank-Warrior
+Képesség: bájolás
+########################################
+Azonosító: #141
+Hős neve: Zed
+Nehézségi szint: Assasin
+Képesség: végítélet
+########################################
+Azonosító: #142
+Hős neve: Ziggs
+Nehézségi szint: Mage
+Képesség: átokszórás
+########################################
+Azonosító: #143
+Hős neve: Zilean
+Nehézségi szint: Mage-Support
+Képesség: bájolás
+########################################
+Azonosító: #144
+Hős neve: Zoe
+Nehézségi szint: Mage
+Képesség: bájolás
+########################################
+Azonosító: #145
+Hős neve: Zyra
+Nehézségi szint: Mage-Support
+Képesség: végítélet
+########################################

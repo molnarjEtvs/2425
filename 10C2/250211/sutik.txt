@@ -1,0 +1,1227 @@
+Sütemény neve: Süni
+A sütemény kiszerelése: db
+Eladott mennyiség: 159  db
+Bevétel:  47700 Ft
+----------------------------------------
+Sütemény neve: Gesztenyealagút
+A sütemény kiszerelése: db
+Eladott mennyiség: 171  db
+Bevétel:  85500 Ft
+----------------------------------------
+Sütemény neve: Sajtos pogácsa
+A sütemény kiszerelése: kg
+Eladott mennyiség: 201  kg
+Bevétel:  663300 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Diós-mákos
+A sütemény kiszerelése: koszorú
+Eladott mennyiség: 464  koszorú
+Bevétel:  1624000 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Sajttorta (málnás)
+A sütemény kiszerelése: 12 szeletes
+Eladott mennyiség: 273  12 szeletes
+Bevétel:  2457000 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Citrom
+A sütemény kiszerelése: 8 szeletes
+Eladott mennyiség: 499  8 szeletes
+Bevétel:  1946100 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Citrom
+A sütemény kiszerelése: 16 szeletes
+Eladott mennyiség: 394  16 szeletes
+Bevétel:  2915600 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Citrom
+A sütemény kiszerelése: 24 szeletes
+Eladott mennyiség: 397  24 szeletes
+Bevétel:  4525800 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Eszterházy
+A sütemény kiszerelése: db
+Eladott mennyiség: 237  db
+Bevétel:  116130 Ft
+----------------------------------------
+Sütemény neve: Rákóczi-túrós
+A sütemény kiszerelése: db
+Eladott mennyiség: 100  db
+Bevétel:  40000 Ft
+----------------------------------------
+Sütemény neve: Meggyes kocka
+A sütemény kiszerelése: db
+Eladott mennyiség: 174  db
+Bevétel:  78300 Ft
+----------------------------------------
+Sütemény neve: Legényfogó
+A sütemény kiszerelése: 24 szeletes
+Eladott mennyiség: 109  24 szeletes
+Bevétel:  1318900 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Legényfogó
+A sütemény kiszerelése: 8 szeletes
+Eladott mennyiség: 188  8 szeletes
+Bevétel:  808400 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Legényfogó
+A sütemény kiszerelése: 16 szeletes
+Eladott mennyiség: 196  16 szeletes
+Bevétel:  1607200 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Alpesi karamell
+A sütemény kiszerelése: db
+Eladott mennyiség: 356  db
+Bevétel:  174440 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Kókuszcsók
+A sütemény kiszerelése: kg
+Eladott mennyiség: 199  kg
+Bevétel:  676600 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Habos mákos
+A sütemény kiszerelése: db
+Eladott mennyiség: 464  db
+Bevétel:  185600 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Szilvás
+A sütemény kiszerelése: db
+Eladott mennyiség: 133  db
+Bevétel:  46550 Ft
+----------------------------------------
+Sütemény neve: Juhtúrós párna
+A sütemény kiszerelése: kg
+Eladott mennyiség: 121  kg
+Bevétel:  605000 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Mákos guba
+A sütemény kiszerelése: db
+Eladott mennyiség: 299  db
+Bevétel:  158470 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Néró
+A sütemény kiszerelése: kg
+Eladott mennyiség: 254  kg
+Bevétel:  863600 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Sacher
+A sütemény kiszerelése: db
+Eladott mennyiség: 424  db
+Bevétel:  207760 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Citrom
+A sütemény kiszerelése: db
+Eladott mennyiség: 304  db
+Bevétel:  136800 Ft
+----------------------------------------
+Sütemény neve: Ribizlihabos-almás réteges
+A sütemény kiszerelése: 8 szeletes
+Eladott mennyiség: 433  8 szeletes
+Bevétel:  2035100 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Három kívánság
+A sütemény kiszerelése: 8 szeletes
+Eladott mennyiség: 122  8 szeletes
+Bevétel:  695400 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Három kívánság
+A sütemény kiszerelése: 8 szeletes
+Eladott mennyiség: 158  8 szeletes
+Bevétel:  900600 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Dobos
+A sütemény kiszerelése: 16 szeletes
+Eladott mennyiség: 226  16 szeletes
+Bevétel:  2034000 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Dobos
+A sütemény kiszerelése: 24 szeletes
+Eladott mennyiség: 312  24 szeletes
+Bevétel:  4118400 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Dobos
+A sütemény kiszerelése: 8 szeletes
+Eladott mennyiség: 150  8 szeletes
+Bevétel:  705000 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Epres mascarpone
+A sütemény kiszerelése: db
+Eladott mennyiség: 245  db
+Bevétel:  134750 Ft
+----------------------------------------
+Sütemény neve: Csokoládémousse
+A sütemény kiszerelése: 24 szeletes
+Eladott mennyiség: 180  24 szeletes
+Bevétel:  2052000 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Csokoládémousse
+A sütemény kiszerelése: 8 szeletes
+Eladott mennyiség: 338  8 szeletes
+Bevétel:  1318200 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Csokoládémousse
+A sütemény kiszerelése: 16 szeletes
+Eladott mennyiség: 254  16 szeletes
+Bevétel:  1879600 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Oroszkrém
+A sütemény kiszerelése: 16 szeletes
+Eladott mennyiség: 278  16 szeletes
+Bevétel:  2279600 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Oroszkrém
+A sütemény kiszerelése: 8 szeletes
+Eladott mennyiség: 340  8 szeletes
+Bevétel:  1462000 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Oroszkrém
+A sütemény kiszerelése: 24 szeletes
+Eladott mennyiség: 215  24 szeletes
+Bevétel:  2601500 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Medvetalp
+A sütemény kiszerelése: db
+Eladott mennyiség: 180  db
+Bevétel:  72000 Ft
+----------------------------------------
+Sütemény neve: Trüffel
+A sütemény kiszerelése: 24 szeletes
+Eladott mennyiség: 113  24 szeletes
+Bevétel:  1740200 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Trüffel
+A sütemény kiszerelése: 16 szeletes
+Eladott mennyiség: 442  16 szeletes
+Bevétel:  4596800 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Trüffel
+A sütemény kiszerelése: 8 szeletes
+Eladott mennyiség: 237  8 szeletes
+Bevétel:  1279800 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Tejszínes gyümölcsös (meggy)
+A sütemény kiszerelése: 16 szeletes
+Eladott mennyiség: 488  16 szeletes
+Bevétel:  4001600 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Tejszínes gyümölcsös (meggy)
+A sütemény kiszerelése: 8 szeletes
+Eladott mennyiség: 402  8 szeletes
+Bevétel:  1728600 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Tejszínes gyümölcsös (meggy)
+A sütemény kiszerelése: 24 szeletes
+Eladott mennyiség: 188  24 szeletes
+Bevétel:  2274800 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Mákos-szilvalekváros
+A sütemény kiszerelése: koszorú
+Eladott mennyiség: 445  koszorú
+Bevétel:  1557500 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Ribizlihabos-?almá?s réteges tortaszelet
+A sütemény kiszerelése: db
+Eladott mennyiség: 258  db
+Bevétel:  136740 Ft
+----------------------------------------
+Sütemény neve: Marcipános vágott
+A sütemény kiszerelése: kg
+Eladott mennyiség: 479  kg
+Bevétel:  2490800 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Indiáner
+A sütemény kiszerelése: db
+Eladott mennyiség: 485  db
+Bevétel:  242500 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Meggyes
+A sütemény kiszerelése: db
+Eladott mennyiség: 237  db
+Bevétel:  82950 Ft
+----------------------------------------
+Sütemény neve: Mákos
+A sütemény kiszerelése: rúd
+Eladott mennyiség: 285  rúd
+Bevétel:  484500 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Sós karamella
+A sütemény kiszerelése: 8 szeletes
+Eladott mennyiség: 259  8 szeletes
+Bevétel:  1217300 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Sós karamella
+A sütemény kiszerelése: 24 szeletes
+Eladott mennyiség: 222  24 szeletes
+Bevétel:  2930400 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Sós karamella
+A sütemény kiszerelése: 16 szeletes
+Eladott mennyiség: 104  16 szeletes
+Bevétel:  936000 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Legényfogó
+A sütemény kiszerelése: db
+Eladott mennyiség: 398  db
+Bevétel:  195020 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Rigó Jancsi
+A sütemény kiszerelése: 8 szeletes
+Eladott mennyiség: 388  8 szeletes
+Bevétel:  1513200 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Rigó Jancsi
+A sütemény kiszerelése: 16 szeletes
+Eladott mennyiség: 154  16 szeletes
+Bevétel:  1139600 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Rigó Jancsi
+A sütemény kiszerelése: 24 szeletes
+Eladott mennyiség: 210  24 szeletes
+Bevétel:  2394000 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Tejszínes gyümölcsös (erdei gyümölcs)
+A sütemény kiszerelése: 8 szeletes
+Eladott mennyiség: 127  8 szeletes
+Bevétel:  546100 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Tejszínes gyümölcsös (erdei gyümölcs)
+A sütemény kiszerelése: 16 szeletes
+Eladott mennyiség: 375  16 szeletes
+Bevétel:  3075000 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Tejszínes gyümölcsös (erdei gyümölcs)
+A sütemény kiszerelése: 24 szeletes
+Eladott mennyiség: 446  24 szeletes
+Bevétel:  5396600 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Ez+Az (csokoládé és gesztenye)
+A sütemény kiszerelése: 24 szeletes
+Eladott mennyiség: 163  24 szeletes
+Bevétel:  2151600 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Ez+Az (csokoládé és gesztenye)
+A sütemény kiszerelése: 16 szeletes
+Eladott mennyiség: 453  16 szeletes
+Bevétel:  4077000 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Ez+Az (csokoládé és gesztenye)
+A sütemény kiszerelése: 8 szeletes
+Eladott mennyiség: 117  8 szeletes
+Bevétel:  549900 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Málnás mascarpone
+A sütemény kiszerelése: 8 szeletes
+Eladott mennyiség: 417  8 szeletes
+Bevétel:  2376900 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Málnás mascarpone
+A sütemény kiszerelése: 24 szeletes
+Eladott mennyiség: 356  24 szeletes
+Bevétel:  5767200 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Málnás mascarpone
+A sütemény kiszerelése: 16 szeletes
+Eladott mennyiség: 309  16 szeletes
+Bevétel:  3368100 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Dobos
+A sütemény kiszerelése: db
+Eladott mennyiség: 333  db
+Bevétel:  176490 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Ferrero
+A sütemény kiszerelése: 24 szeletes
+Eladott mennyiség: 162  24 szeletes
+Bevétel:  2624400 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Ferrero
+A sütemény kiszerelése: 16 szeletes
+Eladott mennyiség: 485  16 szeletes
+Bevétel:  5286500 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Ferrero
+A sütemény kiszerelése: 8 szeletes
+Eladott mennyiség: 490  8 szeletes
+Bevétel:  2793000 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Vegyes házi pite falatok
+A sütemény kiszerelése: kg
+Eladott mennyiség: 364  kg
+Bevétel:  1528800 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Ökörszem
+A sütemény kiszerelése: kg
+Eladott mennyiség: 411  kg
+Bevétel:  1561800 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Danubius kocka
+A sütemény kiszerelése: db
+Eladott mennyiség: 237  db
+Bevétel:  106650 Ft
+----------------------------------------
+Sütemény neve: Sajtkrémmel töltött fánkocska
+A sütemény kiszerelése: kg
+Eladott mennyiség: 474  kg
+Bevétel:  2464800 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Túrókrém gyümölccsel díszítve
+A sütemény kiszerelése: db
+Eladott mennyiség: 158  db
+Bevétel:  77420 Ft
+----------------------------------------
+Sütemény neve: Almás
+A sütemény kiszerelése: db
+Eladott mennyiség: 206  db
+Bevétel:  72100 Ft
+----------------------------------------
+Sütemény neve: Mignon
+A sütemény kiszerelése: db
+Eladott mennyiség: 398  db
+Bevétel:  99500 Ft
+----------------------------------------
+Sütemény neve: Csokoládémousse fényes csokoládéval
+A sütemény kiszerelése: 24 szeletes
+Eladott mennyiség: 189  24 szeletes
+Bevétel:  2532600 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Csokoládémousse fényes csokoládéval
+A sütemény kiszerelése: 16 szeletes
+Eladott mennyiség: 425  16 szeletes
+Bevétel:  3910000 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Csokoládémousse fényes csokoládéval
+A sütemény kiszerelése: 8 szeletes
+Eladott mennyiség: 451  8 szeletes
+Bevétel:  2209900 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Vágott sós (sós omlós)
+A sütemény kiszerelése: kg
+Eladott mennyiség: 276  kg
+Bevétel:  1104000 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Nagyi sós
+A sütemény kiszerelése: kg
+Eladott mennyiség: 362  kg
+Bevétel:  1810000 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Vegyes sós
+A sütemény kiszerelése: kg
+Eladott mennyiség: 402  kg
+Bevétel:  1688400 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Somlói
+A sütemény kiszerelése: db
+Eladott mennyiség: 355  db
+Bevétel:  205900 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Tiramisu
+A sütemény kiszerelése: db
+Eladott mennyiség: 426  db
+Bevétel:  255600 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Hegyvidék
+A sütemény kiszerelése: db
+Eladott mennyiség: 321  db
+Bevétel:  192600 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Szedres csokoládé
+A sütemény kiszerelése: db
+Eladott mennyiség: 131  db
+Bevétel:  69430 Ft
+----------------------------------------
+Sütemény neve: Pogácsák vegyesen
+A sütemény kiszerelése: kg
+Eladott mennyiség: 464  kg
+Bevétel:  1484800 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Lúdláb
+A sütemény kiszerelése: 24 szeletes
+Eladott mennyiség: 290  24 szeletes
+Bevétel:  3828000 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Lúdláb
+A sütemény kiszerelése: 16 szeletes
+Eladott mennyiség: 422  16 szeletes
+Bevétel:  3798000 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Lúdláb
+A sütemény kiszerelése: 8 szeletes
+Eladott mennyiség: 163  8 szeletes
+Bevétel:  766100 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Sacher
+A sütemény kiszerelése: 16 szeletes
+Eladott mennyiség: 134  16 szeletes
+Bevétel:  1098800 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Sacher
+A sütemény kiszerelése: 24 szeletes
+Eladott mennyiség: 179  24 szeletes
+Bevétel:  2165900 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Sacher
+A sütemény kiszerelése: 8 szeletes
+Eladott mennyiség: 258  8 szeletes
+Bevétel:  1109400 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Eszterházy
+A sütemény kiszerelése: 16 szeletes
+Eladott mennyiség: 316  16 szeletes
+Bevétel:  2654400 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Eszterházy
+A sütemény kiszerelése: 24 szeletes
+Eladott mennyiség: 346  24 szeletes
+Bevétel:  4221200 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Eszterházy
+A sütemény kiszerelése: 8 szeletes
+Eladott mennyiség: 116  8 szeletes
+Bevétel:  522000 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Zalavári gesztenye
+A sütemény kiszerelése: db
+Eladott mennyiség: 395  db
+Bevétel:  237000 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Gesztenyegolyó
+A sütemény kiszerelése: db
+Eladott mennyiség: 206  db
+Bevétel:  72100 Ft
+----------------------------------------
+Sütemény neve: Pisztáciás-málnás mascarpone
+A sütemény kiszerelése: db
+Eladott mennyiség: 396  db
+Bevétel:  297000 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Habos mákos
+A sütemény kiszerelése: db
+Eladott mennyiség: 416  db
+Bevétel:  166400 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Franciakrémes
+A sütemény kiszerelése: 
+Eladott mennyiség: 250  
+Bevétel:  87500 Ft
+----------------------------------------
+Sütemény neve: Gesztenye kocka
+A sütemény kiszerelése: db
+Eladott mennyiség: 410  db
+Bevétel:  205000 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Pisztáciás-málnás mascarpone
+A sütemény kiszerelése: 24 szeletes
+Eladott mennyiség: 186  24 szeletes
+Bevétel:  3422400 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Pisztáciás-málnás mascarpone
+A sütemény kiszerelése: 8 szeletes
+Eladott mennyiség: 177  8 szeletes
+Bevétel:  1132800 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Pisztáciás-málnás mascarpone
+A sütemény kiszerelése: 16 szeletes
+Eladott mennyiség: 192  16 szeletes
+Bevétel:  2380800 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Málnás kocka
+A sütemény kiszerelése: db
+Eladott mennyiség: 368  db
+Bevétel:  165600 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Sajttorta (málnás)
+A sütemény kiszerelése: db
+Eladott mennyiség: 379  db
+Bevétel:  265300 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Túrókrém gyümölccsel
+A sütemény kiszerelése: 16 szeletes
+Eladott mennyiség: 239  16 szeletes
+Bevétel:  1768600 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Túrókrém gyümölccsel
+A sütemény kiszerelése: 8 szeletes
+Eladott mennyiség: 293  8 szeletes
+Bevétel:  1142700 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Túrókrém gyümölccsel
+A sütemény kiszerelése: 24 szeletes
+Eladott mennyiség: 477  24 szeletes
+Bevétel:  5437800 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Csokis kaland
+A sütemény kiszerelése: 8 szeletes
+Eladott mennyiség: 490  8 szeletes
+Bevétel:  2793000 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Somlói
+A sütemény kiszerelése: 8 szeletes
+Eladott mennyiség: 345  8 szeletes
+Bevétel:  1863000 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Palermo
+A sütemény kiszerelése: 16 szeletes
+Eladott mennyiség: 171  16 szeletes
+Bevétel:  1265400 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Palermo
+A sütemény kiszerelése: 8 szeletes
+Eladott mennyiség: 127  8 szeletes
+Bevétel:  495300 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Palermo
+A sütemény kiszerelése: 24 szeletes
+Eladott mennyiség: 271  24 szeletes
+Bevétel:  3089400 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Szilvalekváros
+A sütemény kiszerelése: rúd
+Eladott mennyiség: 320  rúd
+Bevétel:  672000 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Ünnepi diótorta grillázzsal
+A sütemény kiszerelése: 16 szeletes
+Eladott mennyiség: 371  16 szeletes
+Bevétel:  4043900 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Ünnepi diótorta grillázzsal
+A sütemény kiszerelése: 8 szeletes
+Eladott mennyiség: 357  8 szeletes
+Bevétel:  2034900 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Ünnepi diótorta grillázzsal
+A sütemény kiszerelése: 24 szeletes
+Eladott mennyiség: 141  24 szeletes
+Bevétel:  2284200 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Oroszkrém
+A sütemény kiszerelése: db
+Eladott mennyiség: 204  db
+Bevétel:  99960 Ft
+----------------------------------------
+Sütemény neve: Mini zserbó
+A sütemény kiszerelése: kg
+Eladott mennyiség: 146  kg
+Bevétel:  613200 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Sajtos masni
+A sütemény kiszerelése: kg
+Eladott mennyiség: 491  kg
+Bevétel:  1964000 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Zserbó
+A sütemény kiszerelése: db
+Eladott mennyiség: 242  db
+Bevétel:  84700 Ft
+----------------------------------------
+Sütemény neve: Tejszínes gyümölcsös (málna)
+A sütemény kiszerelése: 16 szeletes
+Eladott mennyiség: 380  16 szeletes
+Bevétel:  3116000 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Tejszínes gyümölcsös (málna)
+A sütemény kiszerelése: 8 szeletes
+Eladott mennyiség: 327  8 szeletes
+Bevétel:  1406100 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Tejszínes gyümölcsös (málna)
+A sütemény kiszerelése: 24 szeletes
+Eladott mennyiség: 211  24 szeletes
+Bevétel:  2553100 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Marcipános csokoládé
+A sütemény kiszerelése: 8 szeletes
+Eladott mennyiség: 337  8 szeletes
+Bevétel:  1920900 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Marcipános csokoládé
+A sütemény kiszerelése: 24 szeletes
+Eladott mennyiség: 159  24 szeletes
+Bevétel:  2575800 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Marcipános csokoládé
+A sütemény kiszerelése: 16 szeletes
+Eladott mennyiség: 417  16 szeletes
+Bevétel:  4545300 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Csokis kaland
+A sütemény kiszerelése: db
+Eladott mennyiség: 321  db
+Bevétel:  208650 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Marcipán tekercs
+A sütemény kiszerelése: kg
+Eladott mennyiség: 230  kg
+Bevétel:  1196000 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Képviselőfánk
+A sütemény kiszerelése: db
+Eladott mennyiség: 130  db
+Bevétel:  65000 Ft
+----------------------------------------
+Sütemény neve: Epres omlett
+A sütemény kiszerelése: db
+Eladott mennyiség: 355  db
+Bevétel:  213000 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Mini linzer
+A sütemény kiszerelése: kg
+Eladott mennyiség: 107  kg
+Bevétel:  363800 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Linzerkarika
+A sütemény kiszerelése: db
+Eladott mennyiség: 224  db
+Bevétel:  67200 Ft
+----------------------------------------
+Sütemény neve: Szedres csokoládé
+A sütemény kiszerelése: 24 szeletes
+Eladott mennyiség: 199  24 szeletes
+Bevétel:  2626800 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Szedres csokoládé
+A sütemény kiszerelése: 16 szeletes
+Eladott mennyiség: 412  16 szeletes
+Bevétel:  3708000 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Szedres csokoládé
+A sütemény kiszerelése: 8 szeletes
+Eladott mennyiség: 248  8 szeletes
+Bevétel:  1165600 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Narancsív
+A sütemény kiszerelése: kg
+Eladott mennyiség: 186  kg
+Bevétel:  967200 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Gesztenyepüré
+A sütemény kiszerelése: 20 dkg
+Eladott mennyiség: 374  20 dkg
+Bevétel:  299200 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Palermo
+A sütemény kiszerelése: db
+Eladott mennyiség: 337  db
+Bevétel:  151650 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Csokis néró
+A sütemény kiszerelése: kg
+Eladott mennyiség: 403  kg
+Bevétel:  1692600 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Flódni
+A sütemény kiszerelése: db
+Eladott mennyiség: 381  db
+Bevétel:  152400 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Mézeskalács
+A sütemény kiszerelése: 24 szeletes
+Eladott mennyiség: 416  24 szeletes
+Bevétel:  6739200 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Mézeskalács
+A sütemény kiszerelése: 8 szeletes
+Eladott mennyiség: 346  8 szeletes
+Bevétel:  1972200 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Mézeskalács
+A sütemény kiszerelése: 16 szeletes
+Eladott mennyiség: 152  16 szeletes
+Bevétel:  1656800 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Olívás pogácsa
+A sütemény kiszerelése: kg ??
+Eladott mennyiség: 248  kg ??
+Bevétel:  818400 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Florentin
+A sütemény kiszerelése: kg
+Eladott mennyiség: 172  kg
+Bevétel:  894400 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Tiramisu
+A sütemény kiszerelése: 16 szeletes
+Eladott mennyiség: 445  16 szeletes
+Bevétel:  4628000 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Tiramisu
+A sütemény kiszerelése: 24 szeletes
+Eladott mennyiség: 392  24 szeletes
+Bevétel:  6036800 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Tiramisu
+A sütemény kiszerelése: 8 szeletes
+Eladott mennyiség: 382  8 szeletes
+Bevétel:  2062800 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Zoli kedvence (vágott édes tea)
+A sütemény kiszerelése: kg
+Eladott mennyiség: 239  kg
+Bevétel:  1099400 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Erdei gyümölcs kocka
+A sütemény kiszerelése: db
+Eladott mennyiség: 235  db
+Bevétel:  105750 Ft
+----------------------------------------
+Sütemény neve: Rákóczi-túrós
+A sütemény kiszerelése: db
+Eladott mennyiség: 228  db
+Bevétel:  91200 Ft
+----------------------------------------
+Sütemény neve: Mézeskrémes
+A sütemény kiszerelése: db
+Eladott mennyiség: 377  db
+Bevétel:  124410 Ft
+----------------------------------------
+Sütemény neve: Trüffel
+A sütemény kiszerelése: db
+Eladott mennyiség: 353  db
+Bevétel:  229450 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Szilvás papucs
+A sütemény kiszerelése: kg
+Eladott mennyiség: 351  kg
+Bevétel:  1474200 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Zalavári gesztenye
+A sütemény kiszerelése: 16 szeletes
+Eladott mennyiség: 425  16 szeletes
+Bevétel:  4632500 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Zalavári gesztenye
+A sütemény kiszerelése: 8 szeletes
+Eladott mennyiség: 288  8 szeletes
+Bevétel:  1641600 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Danubius
+A sütemény kiszerelése: 8 szeletes
+Eladott mennyiség: 145  8 szeletes
+Bevétel:  623500 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Danubius
+A sütemény kiszerelése: 24 szeletes
+Eladott mennyiség: 302  24 szeletes
+Bevétel:  3654200 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Danubius
+A sütemény kiszerelése: 16 szeletes
+Eladott mennyiség: 486  16 szeletes
+Bevétel:  3985200 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Alpesi karamell
+A sütemény kiszerelése: 24 szeletes
+Eladott mennyiség: 360  24 szeletes
+Bevétel:  4392000 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Alpesi karamell
+A sütemény kiszerelése: 16 szeletes
+Eladott mennyiség: 171  16 szeletes
+Bevétel:  1436400 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Alpesi karamell
+A sütemény kiszerelése: 8 szeletes
+Eladott mennyiség: 388  8 szeletes
+Bevétel:  1746000 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Puncs
+A sütemény kiszerelése: 24 szeletes
+Eladott mennyiség: 437  24 szeletes
+Bevétel:  4981800 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Puncs
+A sütemény kiszerelése: 8 szeletes
+Eladott mennyiség: 347  8 szeletes
+Bevétel:  1353300 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Puncs
+A sütemény kiszerelése: 16 szeletes
+Eladott mennyiség: 142  16 szeletes
+Bevétel:  1050800 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Gesztenye szív
+A sütemény kiszerelése: db
+Eladott mennyiség: 130  db
+Bevétel:  39000 Ft
+----------------------------------------
+Sütemény neve: Ez+Az (csokoládé és gesztenye)
+A sütemény kiszerelése: db
+Eladott mennyiség: 471  db
+Bevétel:  249630 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Tökmagos félhold
+A sütemény kiszerelése: kg
+Eladott mennyiség: 105  kg
+Bevétel:  346500 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Burgonyás pogácsa
+A sütemény kiszerelése: kg
+Eladott mennyiség: 474  kg
+Bevétel:  1374600 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Somlói galuska
+A sütemény kiszerelése: db
+Eladott mennyiség: 111  db
+Bevétel:  94350 Ft
+----------------------------------------
+Sütemény neve: Puncs
+A sütemény kiszerelése: db
+Eladott mennyiség: 199  db
+Bevétel:  89550 Ft
+----------------------------------------
+Sütemény neve: Lekváros vágott
+A sütemény kiszerelése: kg
+Eladott mennyiség: 400  kg
+Bevétel:  1440000 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Oreo
+A sütemény kiszerelése: 24 szeletes
+Eladott mennyiség: 100  24 szeletes
+Bevétel:  1620000 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Oreo
+A sütemény kiszerelése: 8 szeletes
+Eladott mennyiség: 354  8 szeletes
+Bevétel:  2017800 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Oreo
+A sütemény kiszerelése: 16 szeletes
+Eladott mennyiség: 498  16 szeletes
+Bevétel:  5428200 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Vintage
+A sütemény kiszerelése: 16 szeletes
+Eladott mennyiség: 196  16 szeletes
+Bevétel:  1940400 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Rigó Jancsi
+A sütemény kiszerelése: db
+Eladott mennyiség: 351  db
+Bevétel:  157950 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Feketeerdő
+A sütemény kiszerelése: 16 szeletes
+Eladott mennyiség: 317  16 szeletes
+Bevétel:  2853000 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Feketeerdő
+A sütemény kiszerelése: 24 szeletes
+Eladott mennyiség: 457  24 szeletes
+Bevétel:  6032400 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Feketeerdő
+A sütemény kiszerelése: 8 szeletes
+Eladott mennyiség: 193  8 szeletes
+Bevétel:  907100 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Kókuszos vágott
+A sütemény kiszerelése: kg
+Eladott mennyiség: 319  kg
+Bevétel:  1084600 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Feketeerdő
+A sütemény kiszerelése: db
+Eladott mennyiség: 170  db
+Bevétel:  90100 Ft
+----------------------------------------
+Sütemény neve: Moscauer
+A sütemény kiszerelése: kg
+Eladott mennyiség: 139  kg
+Bevétel:  722800 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Diós
+A sütemény kiszerelése: rúd
+Eladott mennyiség: 385  rúd
+Bevétel:  693000 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Rákóczi-túrós
+A sütemény kiszerelése: 8 szeletes
+Eladott mennyiség: 163  8 szeletes
+Bevétel:  635700 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Rákóczi-túrós
+A sütemény kiszerelése: 16 szeletes
+Eladott mennyiség: 219  16 szeletes
+Bevétel:  1620600 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Rákóczi-túrós
+A sütemény kiszerelése: 24 szeletes
+Eladott mennyiség: 461  24 szeletes
+Bevétel:  5255400 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Három kívánság
+A sütemény kiszerelése: 8 szeletes
+Eladott mennyiség: 312  8 szeletes
+Bevétel:  1778400 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Gesztenyés-karamellás
+A sütemény kiszerelése: rúd
+Eladott mennyiség: 107  rúd
+Bevétel:  224700 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Gesztenyés szív
+A sütemény kiszerelése: kg
+Eladott mennyiség: 480  kg
+Bevétel:  2112000 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Ropi
+A sütemény kiszerelése: kg
+Eladott mennyiség: 355  kg
+Bevétel:  1420000 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Paleolit étcsokoládé
+A sütemény kiszerelése: 8 szeletes
+Eladott mennyiség: 346  8 szeletes
+Bevétel:  1833800 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Túrós
+A sütemény kiszerelése: db
+Eladott mennyiség: 189  db
+Bevétel:  66150 Ft
+----------------------------------------
+Sütemény neve: Ischler
+A sütemény kiszerelése: db
+Eladott mennyiség: 147  db
+Bevétel:  36750 Ft
+----------------------------------------
+Sütemény neve: Lúdláb
+A sütemény kiszerelése: db
+Eladott mennyiség: 445  db
+Bevétel:  235850 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Csokoládémousse
+A sütemény kiszerelése: db
+Eladott mennyiség: 294  db
+Bevétel:  132300 Ft
+----------------------------------------
+Sütemény neve: Dió
+A sütemény kiszerelése: 8 szeletes
+Eladott mennyiség: 372  8 szeletes
+Bevétel:  1748400 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Dió
+A sütemény kiszerelése: 16 szeletes
+Eladott mennyiség: 264  16 szeletes
+Bevétel:  2376000 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Dió
+A sütemény kiszerelése: 24 szeletes
+Eladott mennyiség: 410  24 szeletes
+Bevétel:  5412000 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Krémes
+A sütemény kiszerelése: db
+Eladott mennyiség: 479  db
+Bevétel:  119750 Ft
+----------------------------------------
+Sütemény neve: Krémes
+A sütemény kiszerelése: db
+Eladott mennyiség: 398  db
+Bevétel:  159200 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Mini ischler
+A sütemény kiszerelése: kg
+Eladott mennyiség: 494  kg
+Bevétel:  1679600 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Paleolit étcsokoládé
+A sütemény kiszerelése: db
+Eladott mennyiség: 254  db
+Bevétel:  152400 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Tejfölös túrós hajtogatott
+A sütemény kiszerelése: kg
+Eladott mennyiség: 471  kg
+Bevétel:  2072400 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: Mákos guba
+A sütemény kiszerelése: 8 szeletes
+Eladott mennyiség: 124  8 szeletes
+Bevétel:  582800 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: mákos
+A sütemény kiszerelése: db
+Eladott mennyiség: 449  db
+Bevétel:  224500 Ft
+NÉPSZERŰ
+----------------------------------------
+Sütemény neve: diós
+A sütemény kiszerelése: db
+Eladott mennyiség: 305  db
+Bevétel:  152500 Ft
+NÉPSZERŰ
+----------------------------------------
