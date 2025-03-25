@@ -1,0 +1,170 @@
+Márka: Bosch
+Energia: 1.5 kw
+Kapacitás: 8.0 kg
+Energia fogyasztás: 4.07 kw
+MAGAS ENEGIAFOGYASZTÁS
+----------------------------------------
+Márka: Whirlpool
+Energia: 1.2 kw
+Kapacitás: 9.0 kg
+Energia fogyasztás: 3.5 kw
+----------------------------------------
+Márka: Samsung
+Energia: 1.4 kw
+Kapacitás: 7.5 kg
+Energia fogyasztás: 4.9 kw
+MAGAS ENEGIAFOGYASZTÁS
+----------------------------------------
+Márka: LG
+Energia: 1.3 kw
+Kapacitás: 8.5 kg
+Energia fogyasztás: 3.92 kw
+----------------------------------------
+Márka: Siemens
+Energia: 1.6 kw
+Kapacitás: 8.0 kg
+Energia fogyasztás: 4.34 kw
+MAGAS ENEGIAFOGYASZTÁS
+----------------------------------------
+Márka: AEG
+Energia: 1.1 kw
+Kapacitás: 7.0 kg
+Energia fogyasztás: 4.04 kw
+MAGAS ENEGIAFOGYASZTÁS
+----------------------------------------
+Márka: Electrolux
+Energia: 1.2 kw
+Kapacitás: 7.5 kg
+Energia fogyasztás: 3.25 kw
+----------------------------------------
+Márka: Miele
+Energia: 1.7 kw
+Kapacitás: 9.0 kg
+Energia fogyasztás: 5.43 kw
+MAGAS ENEGIAFOGYASZTÁS
+----------------------------------------
+Márka: Indesit
+Energia: 1.0 kw
+Kapacitás: 6.5 kg
+Energia fogyasztás: 4.01 kw
+MAGAS ENEGIAFOGYASZTÁS
+----------------------------------------
+Márka: Haier
+Energia: 1.3 kw
+Kapacitás: 7.0 kg
+Energia fogyasztás: 3.17 kw
+----------------------------------------
+Márka: Gorenje
+Energia: 1.5 kw
+Kapacitás: 8.0 kg
+Energia fogyasztás: 4.41 kw
+MAGAS ENEGIAFOGYASZTÁS
+----------------------------------------
+Márka: Sharp
+Energia: 1.2 kw
+Kapacitás: 7.5 kg
+Energia fogyasztás: 4.27 kw
+MAGAS ENEGIAFOGYASZTÁS
+----------------------------------------
+Márka: Panasonic
+Energia: 1.4 kw
+Kapacitás: 8.5 kg
+Energia fogyasztás: 3.15 kw
+----------------------------------------
+Márka: Candy
+Energia: 1.1 kw
+Kapacitás: 6.0 kg
+Energia fogyasztás: 3.17 kw
+----------------------------------------
+Márka: Zanussi
+Energia: 1.3 kw
+Kapacitás: 7.0 kg
+Energia fogyasztás: 4.17 kw
+MAGAS ENEGIAFOGYASZTÁS
+----------------------------------------
+Márka: Hotpoint
+Energia: 1.6 kw
+Kapacitás: 8.0 kg
+Energia fogyasztás: 3.38 kw
+----------------------------------------
+Márka: Beko
+Energia: 1.2 kw
+Kapacitás: 7.5 kg
+Energia fogyasztás: 4.21 kw
+MAGAS ENEGIAFOGYASZTÁS
+----------------------------------------
+Márka: Toshiba
+Energia: 1.5 kw
+Kapacitás: 8.5 kg
+Energia fogyasztás: 4.25 kw
+MAGAS ENEGIAFOGYASZTÁS
+----------------------------------------
+Márka: Hoover
+Energia: 1.3 kw
+Kapacitás: 7.0 kg
+Energia fogyasztás: 4.51 kw
+MAGAS ENEGIAFOGYASZTÁS
+----------------------------------------
+Márka: Hisense
+Energia: 1.4 kw
+Kapacitás: 8.0 kg
+Energia fogyasztás: 4.6 kw
+MAGAS ENEGIAFOGYASZTÁS
+----------------------------------------
+Márka: Blaupunkt
+Energia: 1.7 kw
+Kapacitás: 9.0 kg
+Energia fogyasztás: 4.43 kw
+MAGAS ENEGIAFOGYASZTÁS
+----------------------------------------
+Márka: Grundig
+Energia: 1.1 kw
+Kapacitás: 6.5 kg
+Energia fogyasztás: 3.12 kw
+----------------------------------------
+Márka: Daewoo
+Energia: 1.3 kw
+Kapacitás: 7.5 kg
+Energia fogyasztás: 4.65 kw
+MAGAS ENEGIAFOGYASZTÁS
+----------------------------------------
+Márka: Vestel
+Energia: 1.5 kw
+Kapacitás: 8.0 kg
+Energia fogyasztás: 4.52 kw
+MAGAS ENEGIAFOGYASZTÁS
+----------------------------------------
+Márka: Sharp
+Energia: 1.6 kw
+Kapacitás: 8.5 kg
+Energia fogyasztás: 4.13 kw
+MAGAS ENEGIAFOGYASZTÁS
+----------------------------------------
+Márka: Toshiba
+Energia: 1.2 kw
+Kapacitás: 7.0 kg
+Energia fogyasztás: 3.68 kw
+----------------------------------------
+Márka: Gorenje
+Energia: 1.4 kw
+Kapacitás: 8.0 kg
+Energia fogyasztás: 4.12 kw
+MAGAS ENEGIAFOGYASZTÁS
+----------------------------------------
+Márka: Beko
+Energia: 1.5 kw
+Kapacitás: 8.5 kg
+Energia fogyasztás: 3.72 kw
+----------------------------------------
+Márka: Siemens
+Energia: 1.3 kw
+Kapacitás: 7.5 kg
+Energia fogyasztás: 4.37 kw
+MAGAS ENEGIAFOGYASZTÁS
+----------------------------------------
+Márka: Indesit
+Energia: 1.6 kw
+Kapacitás: 8.0 kg
+Energia fogyasztás: 5.21 kw
+MAGAS ENEGIAFOGYASZTÁS
+----------------------------------------

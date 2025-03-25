@@ -1,0 +1,170 @@
+Márka: Bosch
+Energia: 1.5 kw
+Kapacitás: 8.0 kg
+Energia fogyasztás: 5.175kw
+MAGAS ENERGIAFOGYASZTÁS
+----------------------------------------
+Márka: Whirlpool
+Energia: 1.2 kw
+Kapacitás: 9.0 kg
+Energia fogyasztás: 4.728kw
+MAGAS ENERGIAFOGYASZTÁS
+----------------------------------------
+Márka: Samsung
+Energia: 1.4 kw
+Kapacitás: 7.5 kg
+Energia fogyasztás: 4.134kw
+MAGAS ENERGIAFOGYASZTÁS
+----------------------------------------
+Márka: LG
+Energia: 1.3 kw
+Kapacitás: 8.5 kg
+Energia fogyasztás: 3.625kw
+----------------------------------------
+Márka: Siemens
+Energia: 1.6 kw
+Kapacitás: 8.0 kg
+Energia fogyasztás: 4.936kw
+MAGAS ENERGIAFOGYASZTÁS
+----------------------------------------
+Márka: AEG
+Energia: 1.1 kw
+Kapacitás: 7.0 kg
+Energia fogyasztás: 4.309kw
+MAGAS ENERGIAFOGYASZTÁS
+----------------------------------------
+Márka: Electrolux
+Energia: 1.2 kw
+Kapacitás: 7.5 kg
+Energia fogyasztás: 3.476kw
+----------------------------------------
+Márka: Miele
+Energia: 1.7 kw
+Kapacitás: 9.0 kg
+Energia fogyasztás: 4.244kw
+MAGAS ENERGIAFOGYASZTÁS
+----------------------------------------
+Márka: Indesit
+Energia: 1.0 kw
+Kapacitás: 6.5 kg
+Energia fogyasztás: 4.09kw
+MAGAS ENERGIAFOGYASZTÁS
+----------------------------------------
+Márka: Haier
+Energia: 1.3 kw
+Kapacitás: 7.0 kg
+Energia fogyasztás: 3.053kw
+----------------------------------------
+Márka: Gorenje
+Energia: 1.5 kw
+Kapacitás: 8.0 kg
+Energia fogyasztás: 4.785kw
+MAGAS ENERGIAFOGYASZTÁS
+----------------------------------------
+Márka: Sharp
+Energia: 1.2 kw
+Kapacitás: 7.5 kg
+Energia fogyasztás: 4.68kw
+MAGAS ENERGIAFOGYASZTÁS
+----------------------------------------
+Márka: Panasonic
+Energia: 1.4 kw
+Kapacitás: 8.5 kg
+Energia fogyasztás: 3.722kw
+----------------------------------------
+Márka: Candy
+Energia: 1.1 kw
+Kapacitás: 6.0 kg
+Energia fogyasztás: 3.551kw
+----------------------------------------
+Márka: Zanussi
+Energia: 1.3 kw
+Kapacitás: 7.0 kg
+Energia fogyasztás: 3.5860000000000003kw
+----------------------------------------
+Márka: Hotpoint
+Energia: 1.6 kw
+Kapacitás: 8.0 kg
+Energia fogyasztás: 4.488kw
+MAGAS ENERGIAFOGYASZTÁS
+----------------------------------------
+Márka: Beko
+Energia: 1.2 kw
+Kapacitás: 7.5 kg
+Energia fogyasztás: 3.96kw
+----------------------------------------
+Márka: Toshiba
+Energia: 1.5 kw
+Kapacitás: 8.5 kg
+Energia fogyasztás: 4.275kw
+MAGAS ENERGIAFOGYASZTÁS
+----------------------------------------
+Márka: Hoover
+Energia: 1.3 kw
+Kapacitás: 7.0 kg
+Energia fogyasztás: 3.9370000000000003kw
+----------------------------------------
+Márka: Hisense
+Energia: 1.4 kw
+Kapacitás: 8.0 kg
+Energia fogyasztás: 4.848kw
+MAGAS ENERGIAFOGYASZTÁS
+----------------------------------------
+Márka: Blaupunkt
+Energia: 1.7 kw
+Kapacitás: 9.0 kg
+Energia fogyasztás: 4.397kw
+MAGAS ENERGIAFOGYASZTÁS
+----------------------------------------
+Márka: Grundig
+Energia: 1.1 kw
+Kapacitás: 6.5 kg
+Energia fogyasztás: 4.386kw
+MAGAS ENERGIAFOGYASZTÁS
+----------------------------------------
+Márka: Daewoo
+Energia: 1.3 kw
+Kapacitás: 7.5 kg
+Energia fogyasztás: 4.911kw
+MAGAS ENERGIAFOGYASZTÁS
+----------------------------------------
+Márka: Vestel
+Energia: 1.5 kw
+Kapacitás: 8.0 kg
+Energia fogyasztás: 5.16kw
+MAGAS ENERGIAFOGYASZTÁS
+----------------------------------------
+Márka: Sharp
+Energia: 1.6 kw
+Kapacitás: 8.5 kg
+Energia fogyasztás: 3.3600000000000003kw
+----------------------------------------
+Márka: Toshiba
+Energia: 1.2 kw
+Kapacitás: 7.0 kg
+Energia fogyasztás: 4.0440000000000005kw
+MAGAS ENERGIAFOGYASZTÁS
+----------------------------------------
+Márka: Gorenje
+Energia: 1.4 kw
+Kapacitás: 8.0 kg
+Energia fogyasztás: 4.148kw
+MAGAS ENERGIAFOGYASZTÁS
+----------------------------------------
+Márka: Beko
+Energia: 1.5 kw
+Kapacitás: 8.5 kg
+Energia fogyasztás: 4.455kw
+MAGAS ENERGIAFOGYASZTÁS
+----------------------------------------
+Márka: Siemens
+Energia: 1.3 kw
+Kapacitás: 7.5 kg
+Energia fogyasztás: 4.482kw
+MAGAS ENERGIAFOGYASZTÁS
+----------------------------------------
+Márka: Indesit
+Energia: 1.6 kw
+Kapacitás: 8.0 kg
+Energia fogyasztás: 3.888kw
+----------------------------------------
