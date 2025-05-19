@@ -1,0 +1,250 @@
+DEX: 1
+Név: Bulbasaur
+Erő/Ugrási magasság: 99.45/264.03975 m
+Képesség / Csoport: tűzhányás/fiatal
+**************************************************
+DEX: 2
+Név: Ivysaur
+Erő/Ugrási magasság: 119.36/316.9008 m
+Képesség / Csoport: lövés/idős
+**************************************************
+DEX: 3
+Név: Venusaur
+Erő/Ugrási magasság: 129.45/343.68974999999995 m
+Képesség / Csoport: lövés/idős
+**************************************************
+DEX: 4
+Név: Charmander
+Erő/Ugrási magasság: 180.0/477.9 m
+Képesség / Csoport: lövés/idős
+**************************************************
+DEX: 5
+Név: Charmeleon
+Erő/Ugrási magasság: 99.66/264.5973 m
+Képesség / Csoport: párolgás/idős
+**************************************************
+DEX: 6
+Név: Charizard
+Erő/Ugrási magasság: 149.34/396.4977 m
+Képesség / Csoport: lövés/idős
+**************************************************
+DEX: 7
+Név: Squirtle
+Erő/Ugrási magasság: 121.34/322.1577 m
+Képesség / Csoport: lövés/idős
+**************************************************
+DEX: 8
+Név: Wartortle
+Erő/Ugrási magasság: 159.23/422.75564999999995 m
+Képesség / Csoport: párolgás/idős
+**************************************************
+DEX: 9
+Név: Blastoise
+Erő/Ugrási magasság: 131.33/348.68115 m
+Képesség / Csoport: gurulás/fiatal
+**************************************************
+DEX: 10
+Név: Caterpie
+Erő/Ugrási magasság: 138.53/367.79715000000004 m
+Képesség / Csoport: tűzhányás/fiatal
+**************************************************
+DEX: 11
+Név: Metapod
+Erő/Ugrási magasság: 199.22/528.9291 m
+Képesség / Csoport: tűzhányás/idős
+**************************************************
+DEX: 12
+Név: Butterfree
+Erő/Ugrási magasság: 299.99/796.4734500000001 m
+Képesség / Csoport: párolgás/idős
+**************************************************
+DEX: 13
+Név: Weedle
+Erő/Ugrási magasság: 309.45/821.58975 m
+Képesség / Csoport: párolgás/fiatal
+**************************************************
+DEX: 14
+Név: Kakuna
+Erő/Ugrási magasság: 479.22/1272.3291000000002 m
+Képesség / Csoport: párolgás/idős
+**************************************************
+DEX: 15
+Név: Beedrill
+Erő/Ugrási magasság: 511.11/1356.99705 m
+Képesség / Csoport: gurulás/idős
+**************************************************
+DEX: 16
+Név: Pidgey
+Erő/Ugrási magasság: 127.65/338.91075000000006 m
+Képesség / Csoport: lövés/idős
+**************************************************
+DEX: 17
+Név: Pidgeotto
+Erő/Ugrási magasság: 344.34/914.2227 m
+Képesség / Csoport: tűzhányás/idős
+**************************************************
+DEX: 18
+Név: Pidgeot
+Erő/Ugrási magasság: 157.1/417.10049999999995 m
+Képesség / Csoport: tűzhányás/fiatal
+**************************************************
+DEX: 19
+Név: Rattata
+Erő/Ugrási magasság: 963.45/2557.9597500000004 m
+Képesség / Csoport: gurulás/idős
+**************************************************
+DEX: 20
+Név: Raticate
+Erő/Ugrási magasság: 887.77/2357.02935 m
+Képesség / Csoport: lövés/fiatal
+**************************************************
+DEX: 21
+Név: Spearow
+Erő/Ugrási magasság: 443.69/1177.99695 m
+Képesség / Csoport: párolgás/idős
+**************************************************
+DEX: 22
+Név: Fearow
+Erő/Ugrási magasság: 332.32/882.3096 m
+Képesség / Csoport: gurulás/fiatal
+**************************************************
+DEX: 23
+Név: Ekans
+Erő/Ugrási magasság: 222.32/590.2596000000001 m
+Képesség / Csoport: gurulás/fiatal
+**************************************************
+DEX: 24
+Név: Arbok
+Erő/Ugrási magasság: 110.12/292.3686 m
+Képesség / Csoport: gurulás/idős
+**************************************************
+DEX: 25
+Név: Pikachu
+Erő/Ugrási magasság: 244.34/648.7227 m
+Képesség / Csoport: lövés/idős
+**************************************************
+DEX: 26
+Név: Raichu
+Erő/Ugrási magasság: 344.94/915.8157 m
+Képesség / Csoport: párolgás/fiatal
+**************************************************
+DEX: 27
+Név: Sandshrew
+Erő/Ugrási magasság: 554.76/1472.8878 m
+Képesség / Csoport: gurulás/idős
+**************************************************
+DEX: 28
+Név: Sandslash
+Erő/Ugrási magasság: 619.34/1644.3477 m
+Képesség / Csoport: gurulás/idős
+**************************************************
+DEX: 29
+Név: Nidoran
+Erő/Ugrási magasság: 183.45/487.05974999999995 m
+Képesség / Csoport: lövés/idős
+**************************************************
+DEX: 30
+Név: Nidorina
+Erő/Ugrási magasság: 115.76/307.3428 m
+Képesség / Csoport: tűzhányás/idős
+**************************************************
+DEX: 31
+Név: Nidoqueen
+Erő/Ugrási magasság: 425.23/1128.98565 m
+Képesség / Csoport: gurulás/idős
+**************************************************
+DEX: 32
+Név: Nidoran
+Erő/Ugrási magasság: 392.46/1041.9813 m
+Képesség / Csoport: lövés/idős
+**************************************************
+DEX: 33
+Név: Nidorino
+Erő/Ugrási magasság: 180.88/480.2364 m
+Képesség / Csoport: gurulás/idős
+**************************************************
+DEX: 34
+Név: Nidoking
+Erő/Ugrási magasság: 190.12/504.7686 m
+Képesség / Csoport: gurulás/idős
+**************************************************
+DEX: 35
+Név: Clefairy
+Erő/Ugrási magasság: 215.43/571.96665 m
+Képesség / Csoport: gurulás/idős
+**************************************************
+DEX: 36
+Név: Clefable
+Erő/Ugrási magasság: 183.43/487.00665 m
+Képesség / Csoport: párolgás/idős
+**************************************************
+DEX: 37
+Név: Vulpix
+Erő/Ugrási magasság: 458.22/1216.5741 m
+Képesség / Csoport: párolgás/idős
+**************************************************
+DEX: 38
+Név: Ninetales
+Erő/Ugrási magasság: 555.44/1474.6932000000002 m
+Képesség / Csoport: tűzhányás/idős
+**************************************************
+DEX: 39
+Név: Jigglypuff
+Erő/Ugrási magasság: 333.66/885.8673 m
+Képesség / Csoport: párolgás/idős
+**************************************************
+DEX: 40
+Név: Wigglytuff
+Erő/Ugrási magasság: 325.85/865.1317500000001 m
+Képesség / Csoport: lövés/idős
+**************************************************
+DEX: 41
+Név: Zubat
+Erő/Ugrási magasság: 458.21/1216.54755 m
+Képesség / Csoport: tűzhányás/idős
+**************************************************
+DEX: 42
+Név: Golbat
+Erő/Ugrási magasság: 963.14/2557.1367 m
+Képesség / Csoport: tűzhányás/fiatal
+**************************************************
+DEX: 43
+Név: Oddish
+Erő/Ugrási magasság: 185.16/491.5998 m
+Képesség / Csoport: lövés/fiatal
+**************************************************
+DEX: 44
+Név: Gloom
+Erő/Ugrási magasság: 568.53/1509.44715 m
+Képesség / Csoport: tűzhányás/idős
+**************************************************
+DEX: 45
+Név: Vileplume
+Erő/Ugrási magasság: 963.32/2557.6146 m
+Képesség / Csoport: párolgás/idős
+**************************************************
+DEX: 46
+Név: Paras
+Erő/Ugrási magasság: 478.3/1269.8865 m
+Képesség / Csoport: lövés/idős
+**************************************************
+DEX: 47
+Név: Parasect
+Erő/Ugrási magasság: 258.11/685.28205 m
+Képesség / Csoport: párolgás/idős
+**************************************************
+DEX: 48
+Név: Venonat
+Erő/Ugrási magasság: 963.23/2557.37565 m
+Képesség / Csoport: tűzhányás/idős
+**************************************************
+DEX: 49
+Név: Venomoth
+Erő/Ugrási magasság: 183.67/487.64385 m
+Képesség / Csoport: gurulás/fiatal
+**************************************************
+DEX: 50
+Név: Diglett
+Erő/Ugrási magasság: 966.89/2567.09295 m
+Képesség / Csoport: gurulás/idős
+**************************************************

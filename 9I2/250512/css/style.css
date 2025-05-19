@@ -1,0 +1,10 @@
+p{
+    text-align: justify;
+}
+li > p{
+    margin-left: -2rem;
+    margin-top: 0.75rem;
+}
+main{
+    background-color: rgba(255, 255, 255, 0.8);
+}
