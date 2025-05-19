@@ -16,7 +16,7 @@ def mosogepElemzes(mosogepek:list):
         #if mosogep.lower().find('s') > -1:
             sdb+=1
     print(f"{sdb} db van s betű")
-    szoveg = mosogepek.join("/")
+    szoveg = "/".join(mosogepek)
     print(f"Lista elemei: {szoveg}")
 
 m = mosogepRogzites()
